@@ -11,7 +11,9 @@
 * Xbacon 20,00 R$
 * Xsalada 20,00 R$
 * misto quente 7,50 R$
-
+* coca cola 1 L 7,50 R$
+* guarana 1 L 7,00 R$
+* suco de laranja 5,00 R$
 # confira abaixo
 
 * caro cliente caso vc consiga comer a nossa coxinha gigante vc nao pagara nada 

@@ -10,4 +10,10 @@
 * pizza de metro tradicional file aos quatro queijos,sensação,catupiri 50,00 R$
 * Xbacon 20,00 R$
 * Xsalada 20,00 R$
+* misto quente 7,50 R$
 
+# confira abaixo
+
+* caro cliente caso vc consiga comer a nossa coxinha gigante vc nao pagara nada 
+* venha comer agora e so esse mes nossos chefes de cozinha tem total habilidade 
+* de fazer qualquer pedido na sua frente 

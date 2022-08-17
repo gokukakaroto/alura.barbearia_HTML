@@ -19,3 +19,4 @@
 * caro cliente caso vc consiga comer a nossa coxinha gigante vc nao pagara nada 
 * venha comer agora e so esse mes nossos chefes de cozinha tem total habilidade 
 * de fazer qualquer pedido na sua frente nossa missão e fazer que o cliente se sinta bem em nossa casa
+* com o melhor atendimento da cidade 
